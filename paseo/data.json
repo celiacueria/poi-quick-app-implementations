@@ -12,8 +12,8 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
-                    "complementary": "#FAFAFA"
+                    "brand": "#3498DB",
+                    "complementary": "#1A5276"
                 },
                 "repository_url": "https://github.com/celiacueria/poi-quick-app-implementations.git",
                 "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
