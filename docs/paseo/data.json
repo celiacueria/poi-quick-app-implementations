@@ -1,0 +1,149 @@
+{
+    "meta": {
+        "app_id":  "org.example.somao.paseo",
+        "app_title": "Paseo Indiano",
+        "version": 1,
+        "updated": "2022-03-09",
+        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "marketplace_url": ""
+    },
+    "content": {
+        "en": {
+            "app": {
+                "theme": {
+                    "brand": "#B11623",
+                    "complementary": "#FAFAFA"
+                },
+                "repository_url": "https://github.com/celiacueria/poi-quick-app-implementations.git",
+                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+                "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
+                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
+                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
+            },
+            "pois" : [
+                {
+                  "id" : "1",
+                  "lat" : "43.535.341.202.987.500",
+                  "lon" : "-6.119.356.546.271.690",
+                  "name" : "Casa de la Torre",
+                  "description" : "Esta llamativa mansión fue encargada por Fermín Martínez, que emigró a Cuba con 18 años e hizo fortuna en Caibarién (Cuba), junto a otros vecinos de Somao.",
+                  "more" : null,
+                  "images" : "https://cd1.asturiasprestosa.com/wp-content/uploads/2020/10/26135505/Somao-Pueblo-Ejemplar-Asturias-2020-Casa-de-la-Torre-Casa-Amarilla.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "2",
+                  "lat" : "4.353.472.811.453.510",
+                  "lon" : "-6.119.130.892.305.320",
+                  "name" : "El marciel",
+                  "description" : "Esta bonita vivienda de indianos, de 1910, se encuentra al pie de la carretera de Somao junto a la iglesia y la Casa Amarilla.",
+                  "more" : null,
+                  "images" : "https://cd1.asturiasprestosa.com/wp-content/uploads/2020/10/26135553/Somao-Pueblo-Ejemplar-Asturias-2020-El-Marciel-Chalet-de-Soli%CC%81s.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "3",
+                  "lat" : "4.353.265.409.122.290",
+                  "lon" : "-6.116.835.319.288.590",
+                  "name" : "Villa Radis",
+                  "description" : "Villa Radis fue edificada por Gabino Álvarez hijo en el espacio que su padre le cedió en la finca familiar, donde están La Casona y el Panteón.",
+                  "more" : null,
+                  "images" : "https://4.bp.blogspot.com/-UOR97Up0QXU/TzJsHad-RaI/AAAAAAAADu4/nypSTTt_a7g/s640/DSCN1466+%25282%2529.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com//"
+                },
+                {
+                  "id" : "4",
+                  "lat" : "43.532.872.508.400.500",
+                  "lon" : "-6.117.974.159.763.400",
+                  "name" : "La Casona",
+                  "description" : "La Casona está situada en el lugar conocido como La Serradera de Somao, y se le dio este nombre por sus grandes dimensiones.",
+                  "more" : null,
+                  "images" : "https://cd1.asturiasprestosa.com/wp-content/uploads/2020/10/26135714/Somao-Pueblo-Ejemplar-Asturias-2020-La-Casona-3.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "5",
+                  "lat" : "4,35329E+16",
+                  "lon" : "-6,11797E+15",
+                  "name" : "Panteon de la Casona",
+                  "description" : "El panteón de la casona",
+                  "more" : null,
+                  "images" : "https://cd1.asturiasprestosa.com/wp-content/uploads/2020/10/26135746/Somao-Pueblo-Ejemplar-Asturias-2020-La-Casona-Panteo%CC%81n.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "6",
+                  "lat" : "4.353.097.609.100.480",
+                  "lon" : "-6.121.469.186.746.640",
+                  "name" : "La Marroquina",
+                  "description" : "Hermenegildo Menéndez a su regreso de Cuba se casó ya mayor con Generosa, muriendo al de pocos años. Su mujer ya viuda se casó con un cubano llamado Marcelo con quién no tuvo hijos. Hermenegildo debió comprar una casa ya existente modificándola para convertirla en su vivienda. Posteriormente en la casa existió un negocio de gaseosas y sifones. La casa ha pertenecido también a una exministra socialista que fue quién la restauró.\n",
+                  "more" : null,
+                  "images" : "http://1.bp.blogspot.com/-xdsyw7RPYyQ/TxqS6t_u0-I/AAAAAAAADqw/dj-PaBKaxTM/s400/DSCN9359+%25282%2529.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "7",
+                  "lat" : "4.353.441.343.903.350",
+                  "lon" : "-6.118.226.786.746.520",
+                  "name" : "Escuelas",
+                  "description" : "Escuelas construidas en 1925",
+                  "more" : null,
+                  "images" : "https://cd1.asturiasprestosa.com/wp-content/uploads/2020/10/26142200/Somao-Pueblo-Ejemplar-Asturias-2020-Plaza_.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "8",
+                  "lat" : "4.353.239.770.512.050",
+                  "lon" : "-6.120.681.615.582.700",
+                  "name" : "El Noceo",
+                  "description" : "José Menéndez-Viña marchó joven a Madrid donde trabajó con un político, por causas adversas para éste tuvo que marcharse a Francia y José le acompañó, allí aprendió el idioma. A la hora de regresar a España él prefirió marcharse a Cuba, en concreto a Caibarién, donde estuvo al frente de un próspero almacén de coloniales. Se dice que fue el primero de Somao en irse a Cuba. Desde allí fue llamando a familiares y conocidos, entre otros a Gabino Álvarez sobrino por parte de madre al ser ésta Juana Menéndez Viña, a Jesús Solís y a Fermín Martínez quién no era familiar pero sí socio de Gabino en Caibarién, quienes más tarde encargarían tres de las casas más singulares de Somao. Él regresó de Cuba en cuanto tuvo dinero suficiente, no hizo una gran fortuna como otros convecinos. Con el dinero que trajo participó en los negocios de José Tartiere Lenegre, reformó una casa ya existente ampliándola y fue adquiriendo diversas fincas en su entorno como la que está enfrente de la casa con las iniciales J M y la fecha de 1.889 en la que había frutales. También eran suyos los dos edificios que hoy componen el alojamiento rural La Cochera, en los que vivían los guardeses y servían como cochera y cuadra.\nD. José se casó con Escolástica Díaz Ordóñez Victorero con la que tuvo cuatro hijos, dos ellos murieron jóvenes, uno a los cuatro años y otra a los veinte. Los otros dos, Rosario y José, fueron quienes heredaron la casa. Hoy ésta sigue siendo propiedad de la familia manteniéndose la decoración, los muebles y las pinturas originales.",
+                  "more" : null,
+                  "images" : "http://4.bp.blogspot.com/-INLK2rUeupk/TwtbWNp4EEI/AAAAAAAADo0/l48AMhWbWqk/s400/DSCN9336%25282%2529.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "9",
+                  "lat" : "43.535.286.757.903",
+                  "lon" : "-6.119.292.173.254.890",
+                  "name" : "Casa de las columnas",
+                  "description" : null,
+                  "more" : null,
+                  "images" : "https://4.bp.blogspot.com/-Q-L51CwGARk/T0gZuLCwmQI/AAAAAAAADyA/YJIF7yEueC8/s640/DSCN0544+(2).jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                },
+                {
+                  "id" : "10",
+                  "lat" : "4.353.791.588.510.770",
+                  "lon" : "-61.175.825.923.051.900",
+                  "name" : "La Generala",
+                  "description" : "La Generala, la Casa de Manuel Requejo, la Casa de Doña Basilisa (con una imponente galería acristalada), la Casa de Marcelo Cantera, la Casa de las columnas (que funcionó como casa/bar-tienda) y la Casa de La Peña, fueron otras construcciones que se levantaron con capital indiano aunque no resulten visualmente tan espectaculares como el resto.",
+                  "more" : null,
+                  "images" : "https://asturiaspordescubrir.com/wp-content/uploads/2011/07/el-refugio-del-indiano-37dfd3.jpg",
+                  "attributions" : null,
+                  "wikidata" : null,
+                  "urls" : "http://casonasdeindianos.blogspot.com/"
+                }
+              ]
+        }
+    }
+}
