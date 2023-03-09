@@ -30,7 +30,7 @@
                   "name" : "Casa de la Torre",
                   "description" : "Esta llamativa mansión fue encargada por Fermín Martínez, que emigró a Cuba con 18 años e hizo fortuna en Caibarién (Cuba), junto a otros vecinos de Somao.",
                   "more" : null,
-                  "images" : "https://cd1.asturiasprestosa.com/wp-content/uploads/2020/10/26135505/Somao-Pueblo-Ejemplar-Asturias-2020-Casa-de-la-Torre-Casa-Amarilla.jpg",
+                  "images" : ["https://cd1.asturiasprestosa.com/wp-content/uploads/2020/10/26135505/Somao-Pueblo-Ejemplar-Asturias-2020-Casa-de-la-Torre-Casa-Amarilla.jpg"],
                   "attributions" : null,
                   "wikidata" : null,
                   "urls" : "http://casonasdeindianos.blogspot.com/"
